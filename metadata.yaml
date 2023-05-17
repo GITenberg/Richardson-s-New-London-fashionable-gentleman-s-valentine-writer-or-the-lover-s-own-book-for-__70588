@@ -1,0 +1,32 @@
+_repo: Richardson-s-New-London-fashionable-gentleman-s-valentine-writer-or-the-lover-s-own-book-for-__70588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Thomas
+    deathdate: 1875
+    gutenberg_agent_id: '55808'
+    url: http://www.gutenberg.org/2009/agents/55808
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70588'
+language: en
+pgterms:marc904: https://archive.org/details/richardsonsnewlo00unse/
+pgterms:marc905: 20230211083848richardson
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $bThomas Richardson.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Love poetry, English'
+- !lcsh 'Valentines'
+- !lcsh 'Courtship -- Poetry'
+- !lcc 'PN'
+- GITenberg
+title: 'Richardson''s New London fashionable gentleman''s valentine writer, or, the
+  lover''s own book for this year : $b Containing a very choice selection of original
+  and popular valentines, with appropriate answers'
+url: http://www.gutenberg.org/ebooks/70588
